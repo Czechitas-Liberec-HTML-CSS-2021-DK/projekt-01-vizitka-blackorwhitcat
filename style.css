@@ -1,0 +1,38 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,0.8687850140056023) 0%, rgba(238,208,255,1) 60%);
+    margin: 0 auto;
+    max-width: 50em;
+    
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: 'Dosis', sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: 'Nunito', sans-serif;
+    background-color: #eed0ff;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    background-color: #eed0ff;
+    text-align: center;
+}
+
+a {
+    color: #164d7a;
+}
+
+
+
+
+
